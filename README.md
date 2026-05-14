@@ -1,6 +1,3 @@
-Here’s a clean `README.md` you can paste directly into GitHub.
-
-````markdown
 # FastAPI HTTPS Setup on Oracle VPS (Free) using Caddy + DuckDNS
 
 This guide explains how to host a FastAPI application with free HTTPS SSL on an Oracle Cloud Ubuntu VPS using:
@@ -362,4 +359,3 @@ screen -r fastapi
 - Caddy
 - DuckDNS
 - Oracle Cloud Ubuntu VPS
-````
